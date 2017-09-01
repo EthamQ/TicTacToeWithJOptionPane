@@ -10,7 +10,7 @@ import java.util.Scanner;
  * in another class
  * 
  * Have fun!
- *
+ *(UPDATE: TTTGUI extends this class and provides a simple GUI. Just start the main class there!)
  */
 public class Spiel {
 	protected final int spalten = 3;
